@@ -1,0 +1,7 @@
+name: Chester
+version: 1.0.0
+main: dev.schim.chester.Chester
+description: Opens inventories when an attached waxed sign is clicked
+author: '727021'
+website: https://github.com/727021/Chester
+api-version: '1.21.1'
